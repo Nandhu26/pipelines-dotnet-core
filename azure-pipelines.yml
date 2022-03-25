@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: nandhu
+  name: default
 
 variables:
   solution: '**/*.sln'
